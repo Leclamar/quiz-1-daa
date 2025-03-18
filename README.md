@@ -1,1 +1,3 @@
-# quiz-1-daa
+# Identity
+Nama: Marcella Calista Kristianti
+NIM: 1313623031
