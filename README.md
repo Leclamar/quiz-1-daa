@@ -1,3 +1,3 @@
 # Identity
-Nama: Marcella Calista Kristianti
-NIM: 1313623031
+- Nama: Marcella Calista Kristianti
+- NIM: 1313623031
